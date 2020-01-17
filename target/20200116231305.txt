@@ -1,6 +1,0 @@
-### Executados ###
-Total executado: 3
-### Falhas ###
-testCountryItalian(br.com.prova.test.RegisterGmailTests): expected:<[Este número de telefone foi usado muitas vezes].> but was:<[Ocorreu um problema ao confirmar seu número de telefone].>
-### Suite ###
-Resultado final: false
